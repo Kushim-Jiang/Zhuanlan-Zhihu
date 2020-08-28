@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-
+    
 ![picture](/001/001-000.jpg)
 </div>
 
@@ -269,7 +269,7 @@ UCS 中最早收入的统一的汉字字汇（repertoire）即为「中日朝越
 ![《中国音乐词典・乐律学・乐学・工尺谱》：「现今通行的工尺谱字为上、尺、工、凡、六、五、乙（其低八度作一）等，相当于 do、re、mi、fa、sol、la、si，其高八度谱字末笔上挑，或加偏旁『亻』，如『上』字的高八度作『□』或作『仩』，『尺』字的高八度作『□』或作『伬』，高两个八度的谱字则末笔双挑或加偏旁『彳』，如『上』作『□』或作『□』等；其低八度谱字除『六』作『合』、『五』作『四』外，其余各谱字均以末笔向下撇表示，如『上』字低八度作『□』，低两个八度的谱字末笔双撇，如『上』作『□』等。」](/001/001-008.jpg)
 </div>
 
-2008 年 1 月，由中文界面咨询委员会秘书处写成的 2008/06 号文件 [[27]](https://www.ccli.gov.hk/doc/cl062008.pdf) 中，由市民提交的粤曲用字「鿈」和「鿉」经审核通过。其粤语读音分别为 ce1 [tsʰɛ:˥] 和 wu1 [wu:˥]，与「车」和「污」同音，故推荐普通话读音为 chē 和 wū。
+2008 年 1 月，由中文界面咨询委员会秘书处写成的 2008/06 号文件 [[26]](https://www.ccli.gov.hk/doc/cl062008.pdf) 中，由市民提交的粤曲用字「鿈」和「鿉」经审核通过。其粤语读音分别为 ce1 [tsʰɛ:˥] 和 wu1 [wu:˥]，与「车」和「污」同音，故推荐普通话读音为 chē 和 wū。
 
 <div style="text-align: center;">
 
@@ -277,15 +277,15 @@ UCS 中最早收入的统一的汉字字汇（repertoire）即为「中日朝越
 【鿋】字符用作人名，见于香港身分证上，属已流通的专有名词用字。](/001/001-009.jpg)
 </div>
 
-2009 年 9 月，由中文界面咨询委员会秘书处写成的 2009/06 号文件 [[28]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl062009.pdf) 中，由教育局提交的人名用字「鿊」和「鿋」经审核通过。其粤语读音分别为 zi2 [tsi:˧˥] 和 hei1 [hei˥]，与「淽」和「禧」同音，故推荐普通话读音为 zhǐ 和 xī。
+2009 年 9 月，由中文界面咨询委员会秘书处写成的 2009/06 号文件 [[27]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl062009.pdf) 中，由教育局提交的人名用字「鿊」和「鿋」经审核通过。其粤语读音分别为 zi2 [tsi:˧˥] 和 hei1 [hei˥]，与「淽」和「禧」同音，故推荐普通话读音为 zhǐ 和 xī。
 
 ## U+9FCC
 
-2007 年 10 月 2 日，由小林剑（Ken LUNDE）写成的 L2/07-333 号文件 [[29]](https://www.unicode.org/L2/L2007/07333-lunde-cjk.pdf) 提交了来自 Adobe-Japan1-6 字符集的 21 个汉字，分别为「<font face="HanaminA">工󠄁</font>𫝷𫝑𫞽𫠚𫝓𫝚𫝜𫝼𫞂𫞋𫞔鿌𫞬𫞯𫟉𫟒𫟰𫝥𫠍𫠗」。此后，其中的 19 字进入了后来的急用扩充 D 块。
+2007 年 10 月 2 日，由小林剑（Ken LUNDE）写成的 L2/07-333 号文件 [[28]](https://www.unicode.org/L2/L2007/07333-lunde-cjk.pdf) 提交了来自 Adobe-Japan1-6 字符集的 21 个汉字，分别为「<font face="HanaminA">工󠄁</font>𫝷𫝑𫞽𫠚𫝓𫝚𫝜𫝼𫞂𫞋𫞔鿌𫞬𫞯𫟉𫟒𫟰𫝥𫠍𫠗」。此后，其中的 19 字进入了后来的急用扩充 D 块。
 
-2010 年 6 月 16 日，由小林剑（Ken LUNDE）写成的 L2/10-212 号文件 [[30]](https://www.unicode.org/L2/L2010/10212-irgn1677-ext-e-add.pdf) 提交了来自 Adobe-Japan1-6 字符集的 2 个汉字，分别为「<font face="HanaminA">工󠄁</font>」和「鿌」。此后，「<font face="HanaminA">工󠄁</font>」被认为可以和「工」认同。
+2010 年 6 月 16 日，由小林剑（Ken LUNDE）写成的 L2/10-212 号文件 [[29]](https://www.unicode.org/L2/L2010/10212-irgn1677-ext-e-add.pdf) 提交了来自 Adobe-Japan1-6 字符集的 2 个汉字，分别为「<font face="HanaminA">工󠄁</font>」和「鿌」。此后，「<font face="HanaminA">工󠄁</font>」被认为可以和「工」认同。
 
-2010 年 8 月 24 日，由小林剑（Ken LUNDE）写成的 L2/10-228 号文件 [[31]](https://www.unicode.org/L2/L2010/10228r2-utc-lunde.pdf) 提交了来自 Adobe-Japan1-6 字符集的 1 个汉字。
+2010 年 8 月 24 日，由小林剑（Ken LUNDE）写成的 L2/10-228 号文件 [[30]](https://www.unicode.org/L2/L2010/10228r2-utc-lunde.pdf) 提交了来自 Adobe-Japan1-6 字符集的 1 个汉字。
 
 <div style="text-align: center;">
 
@@ -297,9 +297,9 @@ UCS 中最早收入的统一的汉字字汇（repertoire）即为「中日朝越
 
 ## U+9FCD～U+9FCF
 
-2012 年 10 月 19 日，由魏安（Andrew WEST）写成的 L2/12-333 号文件 [[32]](https://www.unicode.org/L2/L2012/12333-cjk-f.pdf) 中提交了 226 个汉字，其中的化学元素部分包括了「鿏」和「鿔」。由于 UTC 提交给扩充 F 块的时间过晚，该提案后挪到扩充 G 块。
+2012 年 10 月 19 日，由魏安（Andrew WEST）写成的 L2/12-333 号文件 [[31]](https://www.unicode.org/L2/L2012/12333-cjk-f.pdf) 中提交了 226 个汉字，其中的化学元素部分包括了「鿏」和「鿔」。由于 UTC 提交给扩充 F 块的时间过晚，该提案后挪到扩充 G 块。
 
-2013 年 6 月 18 日，国务院印发了《通用规范汉字表》。2013 年 11 月 4 日，由中国国家体写成的 IRG N1967 = WG2 N4508 = L2/14-082 号文件 [[33]](https://www.unicode.org/L2/L2014/14082-n4508-china.pdf) 中提交了《通用规范汉字表》中未编码的 3 个字。
+2013 年 6 月 18 日，国务院印发了《通用规范汉字表》。2013 年 11 月 4 日，由中国国家体写成的 IRG N1967 = WG2 N4508 = L2/14-082 号文件 [[32]](https://www.unicode.org/L2/L2014/14082-n4508-china.pdf) 中提交了《通用规范汉字表》中未编码的 3 个字。
 
 <div style="text-align: center;">
 
@@ -310,23 +310,23 @@ UCS 中最早收入的统一的汉字字汇（repertoire）即为「中日朝越
 
 ## U+9FD0
 
-2010 年 3 月 23 日，由香港特区政府写成的 IRG N1667 号文件 [[34]](https://drive.google.com/uc?id=1SDWZR2T8LU2sc-R0AJ5SwryVEntzyZBP&export=download) 中表示「䲤」和「鿐」不可被认同，因而需要分出一个码位。按已编码汉字的信息，应当分出「鿐」。
+2010 年 3 月 23 日，由香港特区政府写成的 IRG N1667 号文件 [[33]](https://drive.google.com/uc?id=1SDWZR2T8LU2sc-R0AJ5SwryVEntzyZBP&export=download) 中表示「䲤」和「鿐」不可被认同，因而需要分出一个码位。按已编码汉字的信息，应当分出「鿐」。
 
-当时的 IRG #34 会议纪要 IRG N1690 号文件 [[35]](https://drive.google.com/uc?id=1Idkl6PZjJ31CBN6UrW6et9Hx3T395Ho_&export=download) 显示该话题已完成，但修改后的会议纪要 IRG N1690R 号文件 [[36]](https://drive.google.com/uc?id=1Zg5sO82VutVz3aQBobAlPADwHgc_z2ZU&export=download) 中该话题并未出现。
+当时的 IRG #34 会议纪要 IRG N1690 号文件 [[34]](https://drive.google.com/uc?id=1Idkl6PZjJ31CBN6UrW6et9Hx3T395Ho_&export=download) 显示该话题已完成，但修改后的会议纪要 IRG N1690R 号文件 [[35]](https://drive.google.com/uc?id=1Zg5sO82VutVz3aQBobAlPADwHgc_z2ZU&export=download) 中该话题并未出现。
 
-2014 年 5 月 19 日，由香港特区政府写成的 IRG N1989 号文件 [[37]](https://drive.google.com/uc?id=166dUVWQBxVRDPg0gsuitK-v49fXuEEyP&export=download) 中重提此事。并在当时 IRG #42 中达成一致意见。
+2014 年 5 月 19 日，由香港特区政府写成的 IRG N1989 号文件 [[36]](https://drive.google.com/uc?id=166dUVWQBxVRDPg0gsuitK-v49fXuEEyP&export=download) 中重提此事。并在当时 IRG #42 中达成一致意见。
 
 「鿐」见于 GCCS 中，「䲤」为新加坡提交的汉字。其粤语读音为 zau2 [tsɐu˧˥]，与「酒」同音，故推荐普通话读音为 jiǔ。其含义「a kind of clam」直译为「一类蚌」，但无书证，不予采信。
 
 ## U+9FD1～U+9FD5
 
-2012 年 10 月 19 日，由魏安（Andrew WEST）写成的 L2/12-333 号文件 [[32]](https://www.unicode.org/L2/L2012/12333-cjk-f.pdf) 中提交了 226 个汉字。这些汉字包括 105 个二简字、81 个《现代汉语词典》中的汉字、16 个《中日汉字形声论》（修订本，_Grammata Serica Recensa_）中的汉字、2 个化学元素用字、11 个西夏译音字和 11 个其它汉字。
+2012 年 10 月 19 日，由魏安（Andrew WEST）写成的 L2/12-333 号文件 [[31]](https://www.unicode.org/L2/L2012/12333-cjk-f.pdf) 中提交了 226 个汉字。这些汉字包括 105 个二简字、81 个《现代汉语词典》中的汉字、16 个《中日汉字形声论》（修订本，_Grammata Serica Recensa_）中的汉字、2 个化学元素用字、11 个西夏译音字和 11 个其它汉字。
 
-2012 年 11 月 8 日，由 UTC 写成的 IRG N1888 号文件 [[38]](https://drive.google.com/uc?id=1cBmNezRmvMCZPAnvH9rVev3vJK_oFRag&export=download) 中提交了 332 个汉字，其中包括了魏安 L2/12-333 中的汉字。但是提交时间过晚，而且未提供对应的点阵图。因此 UTC 转而将其提交至 UNC。
+2012 年 11 月 8 日，由 UTC 写成的 IRG N1888 号文件 [[37]](https://drive.google.com/uc?id=1cBmNezRmvMCZPAnvH9rVev3vJK_oFRag&export=download) 中提交了 332 个汉字，其中包括了魏安 L2/12-333 中的汉字。但是提交时间过晚，而且未提供对应的点阵图。因此 UTC 转而将其提交至 UNC。
 
-2013 年 1 月 28 日，由 UTC 写成的 L2/13-032 号文件 [[39]](https://www.unicode.org/L2/L2013/13032-unc-proposal.pdf) 中提交了 22 个汉字。
+2013 年 1 月 28 日，由 UTC 写成的 L2/13-032 号文件 [[38]](https://www.unicode.org/L2/L2013/13032-unc-proposal.pdf) 中提交了 22 个汉字。
 
-2013 年 5 月 20 日，由 UTC 写成的 IRG N1936 号文件 [[40]](https://drive.google.com/uc?id=19PmgzR5aXzRrf4WLayQVsfewHwFomk5F&export=download) 中将 22 个字缩减到 19 个汉字。
+2013 年 5 月 20 日，由 UTC 写成的 IRG N1936 号文件 [[39]](https://drive.google.com/uc?id=19PmgzR5aXzRrf4WLayQVsfewHwFomk5F&export=download) 中将 22 个字缩减到 19 个汉字。
 
 2014 年 5 月 15 日，由 UTC 写成的 IRG N2005 号文件 [[40]](https://drive.google.com/uc?id=1iGYNvMKUkRA8f3b8T1O8nkFbimIXRvu-&export=download) 中将 19 个字缩减到 5 个汉字。
 
