@@ -6,7 +6,7 @@
 
 | 代码 | 省级 | 地级 | 县级 | 乡级 | 村级 | 更正 |
 | - | - | - | - | - | - | - | 
-| [653126100039](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/65/31/26/653126100.html) | 新疆维吾尔自治区 | 喀什地区 | 叶城县 | 喀格勒克镇 | <u>&#x3000;茶花社区 | 茶花社区 |
+| [653126100039](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/65/31/26/653126100.html) | 新疆维吾尔自治区 | 喀什地区 | 叶城县 | 喀格勒克镇 | <u>&#x3000;茶花社区</u> | 茶花社区 |
 | [120115106201](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/12/01/15/120115106.html) | 天津市 | 市辖区 | 宝坻区 | 八门城镇 | <u>小（氵甸）村委会 | 小𣵦村委会 |
 | [120115106213](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/12/01/15/120115106.html) | 天津市 | 市辖区 | 宝坻区 | 八门城镇 | <u>东于（瞿阝）村委会 | 东于𨟠村委会 |
 | [120115106214](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/12/01/15/120115106.html) | 天津市 | 市辖区 | 宝坻区 | 八门城镇 | <u>中于（瞿阝）村委会 | 中于𨟠村委会 |
@@ -31,8 +31,7 @@
 | [451203103202](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/45/12/03/451203103.html) | 广西壮族自治区 | 河池市 | 宜州区 | 怀远镇 | <u>楞（同音）达村委会 | 𣸤达村委会 |
 | [451203104201](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/45/12/03/451203104.html) | 广西壮族自治区 | 河池市 | 宜州区 | 德胜镇 | <u>楞（同音）底村委会 | 𣸤底村委会 |
 | [451203210204](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/45/12/03/451203210.html) | 广西壮族自治区 | 河池市 | 宜州区 | 同德乡 | <u>楞（同音）村村委会 | 𣸤村村委会 |
-| [131023401000](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/10/131023.html) | 河北省 | 廊坊市 | 永清县 | <u>北京亦庄.永清高新技术产业开发区 |  | 北京亦庄·永清高新技术产业开发区
- |
+| [131023401000](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/10/131023.html) | 河北省 | 廊坊市 | 永清县 | <u>北京亦庄.永清高新技术产业开发区 |  | 北京亦庄·永清高新技术产业开发区 |
 
 备注：
 -	「苕霅村委会」曾更名「⿱雨召霅村委会」，后改回原名。参见《（浙江省）奉化县地名志》p217。
