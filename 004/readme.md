@@ -122,8 +122,8 @@
 | - | - | - | - | - | - | - |
 | [420602006207](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/42/06/02/420602006.html) | 湖北省 | 襄阳市 | 襄城区 | 余家湖街道 | <u>莫村委会 | 莫𡐓村委会 |
 | [420684103229](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/42/06/84/420684103.html) | 湖北省 | 襄阳市 | 宜城市 | 小河镇 | <u>高村委会 | 高𡐓村委会 |
-| [130229203239](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/02/29/130229203.html) | 河北省 | 唐山市 | 玉田县 | 潮洛窝乡 | <u>孙家村委会 | 孙家圈村委会 |
-| [130229204262](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/02/29/130229204.html) | 河北省 | 唐山市 | 玉田县 | 陈家铺乡 | <u>马村委会 | 马圈村委会 |
+| [130229203239](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/02/29/130229203.html) | 河北省 | 唐山市 | 玉田县 | 潮洛窝乡 | <u>孙家村委会 | 孙家𨟠村委会 |
+| [130229204262](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/13/02/29/130229204.html) | 河北省 | 唐山市 | 玉田县 | 陈家铺乡 | <u>马村委会 | 马𨟠村委会 |
 | [360729102209](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/36/07/29/360729102.html) | 江西省 | 赣州市 | 全南县 | 陂头镇 | <u>张公村委会 | 张公𡌶村委会 |
 
 ## 六、构件
