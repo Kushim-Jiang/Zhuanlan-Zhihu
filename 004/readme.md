@@ -810,9 +810,7 @@
 | [620821110205](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/62/08/21/620821110.html) | 甘肃省 | 平凉市 | 泾川县 | 太平镇 | <u>四郞殿村民委员会 | 四郎殿村民委员会 |
 | [330212110234](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/33/02/12/330212110.html) | 浙江省 | 宁波市 | 鄞州区 | 姜山镇 | <u>后鄮村村委会 | 后𬪍村村委会 |
 | [440306022002](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/44/03/06/440306022.html) | 广东省 | 深圳市 | 宝安区 | 沙井街道 | <u>壆岗社区居委会 | ⿳⺍冖土岗社区居委会 |
-| [441900104205](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/44/19/00/441900104.html) | 广东省 | 东莞市 | NULL | 石排镇 | <u>黄家壆村村民委员会 | 黄家⿳⺍冖土村村民委员会 |
-
-
+| [441900104205](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/44/19/00/441900104.html) | 广东省 | 东莞市 |  | 石排镇 | <u>黄家壆村村民委员会 | 黄家⿳⺍冖土村村民委员会 |
 
 备注：
 -	「磵」表外类推作「𰧃」，当地用「𰧃」。
