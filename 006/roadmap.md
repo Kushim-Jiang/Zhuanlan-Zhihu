@@ -162,7 +162,7 @@
     -   Bopomofo・注音字母
         -   Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
     -   Khitan Ideographs・契丹大字
-        -   Khitan Ideographs: [U+18D80–U+195FF]・契丹大字
+        -   Khitan Ideographs: [U+18D90–U+195FF]・契丹大字
     -   Jurchen・女真文字
         -   Jurchen: [U+19600–U+19B9F]・女真
     -   Pau Cin Hau・包钦豪文字
